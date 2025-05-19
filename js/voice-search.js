@@ -40,3 +40,7 @@ const voiceRecognition = () =>{
 document.querySelector('.form__microphone-icon').addEventListener("click",voiceSearchModalOpen);
 document.querySelector(".voice-search__close-modal").addEventListener("click",voiceSearchModalClose);
 document.querySelector(".voice-search__microphone-border").addEventListener("click",voiceRecognition)
+
+// Esto es un comentario de una sola línea
+let saludo = "Hola, mundo"; // También puedes comentar al final de una línea de código
+// wasupbeijin osisososisoasaamofaosdm
